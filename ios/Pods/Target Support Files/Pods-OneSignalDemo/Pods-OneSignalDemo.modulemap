@@ -1,0 +1,6 @@
+module Pods_OneSignalDemo {
+  umbrella header "Pods-OneSignalDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
